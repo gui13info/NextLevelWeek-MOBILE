@@ -6,8 +6,8 @@
 
 ## Versão MOBILE :phone:
 <p align= "center">
-<img src= "screen/img1.png" >
-<img src= "screen/img2.png" >
+<img src= "screen/img1.png" width="200" height="400" >
+<img src= "screen/img2.png" width="200" height="400" >
 </p>
 
 ## Techs :mortar_board:
